@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: rgb(157, 209, 240);
+}
+
+h1{
+    color: rgb(12, 3, 100);
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #4a8fe9;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
